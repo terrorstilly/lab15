@@ -13,21 +13,21 @@
       <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Thu, 03 Apr 2025 17:43:14 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;asdfsfas&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Thu, 03 Apr 2025 17:42:52 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;asasass&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 03 Apr 2025 17:41:40 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;dadsds&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
